@@ -1,0 +1,21 @@
+#welcome {
+    padding: 15rem 0;
+    background: linear-gradient(90deg, rgba(255, 255, 255, 0.185) 0%, rgba(255, 255, 255, 0.185) 100%), url("https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-callout.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 30px;
+
+    h2 {
+        font-size: 3.5rem;
+        font-weight: 700;
+        display: block;
+        max-width: 30rem;
+    }
+    button{
+        background-color: #259742;
+        border-radius: 0.375rem;
+        color: white;
+        padding: 10px;
+    }
+}
